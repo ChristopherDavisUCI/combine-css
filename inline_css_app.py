@@ -7,7 +7,7 @@ st.title("HTML + CSS → Canvas-safe HTML")
 st.markdown(
     """
 This tool embeds external CSS files directly into an HTML file
-so it will display correctly when uploaded to Canvas.
+so it will display correctly when uploaded to Canvas.  App written by ChatGPT.
 """
 )
 
