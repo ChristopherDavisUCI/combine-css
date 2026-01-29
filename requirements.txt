@@ -1,0 +1,2 @@
+streamlit>=1.53,<1.54
+beautifulsoup4>=4.14,<4.15
